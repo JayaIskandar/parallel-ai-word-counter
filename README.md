@@ -1,0 +1,1 @@
+# parallel-ai-word-counter
